@@ -7,4 +7,4 @@ This repo demonstrates the Kinova Mico manipulator performing insertions into ge
 
 |                            Simulation                                |                            Experimental Setup                                |
 |:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-|<img src="animations/simulationDemo.gif" width="500" height="400">| <img src="animations/experimentalSetupDemo.gif" width="264" height="500">|
+|<img src="animations/simulationDemo.gif" width="500" height="400">| <img src="animations/experimentalSetupDemo.gif" width="212" height="400">|
